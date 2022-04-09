@@ -36,3 +36,7 @@ li a:hover {
 #table {
   background-color: azure;
 }
+
+img {
+  border-radius: 15%;
+}
